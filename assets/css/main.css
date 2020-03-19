@@ -1663,3 +1663,8 @@ input, select, textarea {
 .rules-li{
 	padding-bottom: 10px; 
 }
+
+#faq p{
+	color: rgb(64, 179, 199);
+	font-weight: bold;
+}
