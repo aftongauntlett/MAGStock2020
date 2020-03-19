@@ -1140,7 +1140,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/magstockbackground.png");
 			background-size: cover;
 			background-position: center,
  center;
@@ -1669,4 +1669,10 @@ input, select, textarea {
 	font-weight: bold;
 }
 
-.map{}
+.magfestlink{
+	text-decoration: none;
+    color: #999999;
+    font-weight: 600;
+    font-size: 25px;
+    text-transform: uppercase;
+}
