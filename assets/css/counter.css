@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: Source Sans Pro; 
+    font-weight: 600;
+    margin-top: 50px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.my-number-box{
+    padding: 15px;
+    margin: 15px;
+    width: 200px;
+    border: 1px solid white;
+    text-align: center;
+}
+
+.counted-num{
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
