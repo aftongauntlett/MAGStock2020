@@ -15,6 +15,7 @@
     width: 200px;
     border: 1px solid white;
     text-align: center;
+    z-index: 1000;
 }
 
 .counted-num{
