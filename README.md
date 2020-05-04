@@ -20,7 +20,7 @@ Created using a combination of:
 
 
 ## Description
-Designed by me for MAGFest, inc.
+Designed for MAGFest, inc.
 
 MAGStock is run by MAGFest, Inc., a 501(c)(3) non-profit organization dedicated to furthering the appreciation of video games, video game culture, and video game music.
 
