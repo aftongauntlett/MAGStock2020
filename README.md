@@ -27,7 +27,7 @@ MAGStock is run by MAGFest, Inc., a 501(c)(3) non-profit organization dedicated 
 
 ## Screenshot
 
-![](images/screenshot.jpg)
+![screenshot](https://i.imgur.com/yubN43K.jpg)
 
 
 
