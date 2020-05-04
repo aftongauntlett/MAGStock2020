@@ -1682,3 +1682,11 @@ section, summary, time, mark, audio, video {
 			width: 50%;
 			height: auto;
 		}
+
+		#about {
+			text-align: center;
+		}
+
+		.aboutList {
+			text-align: left;
+		}
