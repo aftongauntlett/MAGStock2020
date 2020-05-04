@@ -22,7 +22,7 @@ Created using a combination of:
 ## Description
 Designed for MAGFest, inc.
 
-MAGStock is run by MAGFest, Inc., a 501(c)(3) non-profit organization dedicated to furthering the appreciation of video games, video game culture, and video game music.
+MAGStock is run by MAGFest, Inc.,a 501(c)(3) non-profit organization dedicated to furthering the appreciation of video games, video game culture, and video game music.
 
 
 ## Screenshot
